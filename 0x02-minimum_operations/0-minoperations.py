@@ -1,7 +1,14 @@
 #!/usr/bin/python3
-
+"""
+Module
+Minimum Operations challenge
+"""
 
 def minOperations(n):
+    """
+    H => Copy All => Paste => HH => Paste =>HHH => Copy All
+    => Paste => HHHHHH => Paste => HHHHHHHHH
+    """
     pasted_chars = 1
     clipboard = 0
     counter = 0
