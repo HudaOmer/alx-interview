@@ -4,6 +4,7 @@ Module
 Minimum Operations challenge
 """
 
+
 def minOperations(n):
     """
     H => Copy All => Paste => HH => Paste =>HHH => Copy All
