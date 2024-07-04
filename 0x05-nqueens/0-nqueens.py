@@ -44,7 +44,6 @@ if __name__ == '__main__':
                 c += 1
                 continue
 
-
             cords = [r, c]
             placed_queens.append(cords)
             if r == n - 1:
