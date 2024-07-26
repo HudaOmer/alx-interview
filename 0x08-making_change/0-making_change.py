@@ -1,6 +1,13 @@
 #!/usr/bin/python3
+"""
+0. Change comes from within
+"""
+
 
 def makeChange(coins, total):
+    """
+    0. Change comes from within
+    """
     if total <= 0:
         return 0
 
