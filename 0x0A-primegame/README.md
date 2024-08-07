@@ -1,5 +1,5 @@
 # Project 0x0A-primegame
-- Solutions
+- Solutions By Huda Omer
 ## 1 task
 
 # Skills:
